@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jfsmith1991
+- 👋 Hi, I’m @jfsmith1991 (Jessica Smith)
 - 👀 I’m interested in Recruiting Fullstack Developers
 - 🌱 I’m currently learning how to use and source on Github/Stackoverflow
 - 💞️ I’m looking to collaborate with talented Devs
